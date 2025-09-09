@@ -16,7 +16,7 @@ export default function App() {
         <View style={styles.imageContainer}>
           <Image
             style={styles.image}
-            source={require("./assets/images/RaisingCanes.png")}
+            source={require("./assets/images/RaisingCanes.jpg")}
           />
         </View>
         <View style={styles.textContainer}>
