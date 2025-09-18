@@ -41,6 +41,7 @@ export default function App() {
   
   function closeBallModal(){
     setModalIsVisible(false);
+    setUserQuestion("");
   }
 
   function shake8Ball() {
@@ -192,8 +193,6 @@ const styles = StyleSheet.create({
     color: "black",
     textAlign: "center"
   },
-
-  
   closeButtonContainer : {
     marginBottom: 40,
   },
