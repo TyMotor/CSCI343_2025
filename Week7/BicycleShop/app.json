@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "BicycleShop",
+    "slug": "BicycleShop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/bicycle.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/bicycle.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/bicycle.jpg",
+        "backgroundColor": "#000000"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/images/bicycle.jpg"
+    }
+  }
+}
