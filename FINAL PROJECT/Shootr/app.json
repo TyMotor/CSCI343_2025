@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Shootr",
+    "slug": "Shootr",
+    "displayName": "Shootr",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/ShootrIcon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/ShootrIcon.png",
+      "resizeMode": "fill",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/ShootrIcon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/images/ShootrIcon.png"
+    }
+  }
+}
