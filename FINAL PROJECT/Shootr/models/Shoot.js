@@ -5,12 +5,12 @@ class Shoot {
     date,
     location,
     price,
-    status, // "upcoming" or "completed"
-    notes // string
+    status,
+    notes
   ) {
     this.id = id;
     this.clientName = clientName;
-    this.date = date; // Date or string
+    this.date = date;
     this.location = location;
     this.price = price;
     this.status = status;

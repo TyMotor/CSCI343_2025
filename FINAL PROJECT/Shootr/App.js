@@ -46,7 +46,7 @@ function DrawerNavigator() {
           backgroundColor: Colors.primaryBackground,
         },
         headerTintColor: Colors.textPrimary,
-        headerTitle: "", // Hide the default title
+        headerTitle: "",
         headerRight: () => (
           <Text
             style={{

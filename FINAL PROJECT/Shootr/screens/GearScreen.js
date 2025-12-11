@@ -56,7 +56,6 @@ export default function GearScreen() {
   );
 
   return (
-    // ✅ SCROLLVIEW ADDED HERE
     <ScrollView
       style={styles.container}
       contentContainerStyle={{ paddingBottom: 60 }}
